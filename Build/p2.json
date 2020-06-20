@@ -1,0 +1,16 @@
+{
+"companyName": "Sierra-117",
+"productName": "TenisGame",
+"productVersion": "Beta",
+"dataUrl": "p2.data.unityweb",
+"wasmCodeUrl": "p2.wasm.code.unityweb",
+"wasmFrameworkUrl": "p2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#020202",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
